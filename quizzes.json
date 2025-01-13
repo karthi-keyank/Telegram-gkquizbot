@@ -1,0 +1,627 @@
+[
+    {
+        "question": "What is the capital of Japan?",
+        "clue": "This city is famous for its cherry blossoms.",
+        "options": {
+            "a": "Tokyo",
+            "b": "Seoul",
+            "c": "Beijing",
+            "d": "Bangkok"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is 25 + 17?",
+        "clue": "It's a simple addition question.",
+        "options": {
+            "a": "42",
+            "b": "50",
+            "c": "52",
+            "d": "58"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "The Earth is flat.",
+        "clue": "This is a basic geography question.",
+        "options": {
+            "true": "True",
+            "false": "False"
+        },
+        "answer": "false"
+    },
+    {
+        "question": "___ is the largest planet in our solar system.",
+        "clue": "This planet is known for its Great Red Spot.",
+        "options": {
+            "a": "Earth",
+            "b": "Jupiter",
+            "c": "Saturn",
+            "d": "Mars"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "clue": "He is often referred to as the 'Father of His Country.'",
+        "options": {
+            "a": "George Washington",
+            "b": "Thomas Jefferson",
+            "c": "Abraham Lincoln",
+            "d": "John Adams"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "clue": "This molecule is essential for life on Earth.",
+        "options": {
+            "a": "O2",
+            "b": "CO2",
+            "c": "H2O",
+            "d": "H2"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the square root of 144?",
+        "clue": "This is a basic math problem.",
+        "options": {
+            "a": "10",
+            "b": "12",
+            "c": "14",
+            "d": "16"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "clue": "This planet is often associated with the color red due to iron oxide.",
+        "options": {
+            "a": "Mars",
+            "b": "Venus",
+            "c": "Saturn",
+            "d": "Jupiter"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "clue": "This famous English playwright is known for his tragic love stories.",
+        "options": {
+            "a": "William Shakespeare",
+            "b": "Charles Dickens",
+            "c": "Mark Twain",
+            "d": "Jane Austen"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "In which year did World War I begin?",
+        "clue": "This war started in Europe and lasted from 1914 to 1918.",
+        "options": {
+            "a": "1912",
+            "b": "1914",
+            "c": "1916",
+            "d": "1918"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "clue": "This ocean covers more than 60 million square miles.",
+        "options": {
+            "a": "Atlantic Ocean",
+            "b": "Indian Ocean",
+            "c": "Southern Ocean",
+            "d": "Pacific Ocean"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "What is the boiling point of water in Celsius?",
+        "clue": "This is a basic science question.",
+        "options": {
+            "a": "90°C",
+            "b": "100°C",
+            "c": "110°C",
+            "d": "120°C"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "How many continents are there on Earth?",
+        "clue": "There are seven continents in total.",
+        "options": {
+            "a": "5",
+            "b": "6",
+            "c": "7",
+            "d": "8"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the symbol for the element gold?",
+        "clue": "This element is highly valued and used in jewelry.",
+        "options": {
+            "a": "Au",
+            "b": "Ag",
+            "c": "Pb",
+            "d": "Fe"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the smallest country in the world?",
+        "clue": "This city-state is located in Europe.",
+        "options": {
+            "a": "Monaco",
+            "b": "San Marino",
+            "c": "Vatican City",
+            "d": "Liechtenstein"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which animal is known for its ability to change color?",
+        "clue": "This reptile is often found in tropical areas.",
+        "options": {
+            "a": "Chameleon",
+            "b": "Lizard",
+            "c": "Frog",
+            "d": "Snake"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "clue": "This city is located in the province of Ontario.",
+        "options": {
+            "a": "Toronto",
+            "b": "Ottawa",
+            "c": "Vancouver",
+            "d": "Montreal"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the freezing point of water in Fahrenheit?",
+        "clue": "This temperature is the same as 0°C.",
+        "options": {
+            "a": "32°F",
+            "b": "0°F",
+            "c": "100°F",
+            "d": "50°F"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "clue": "This discovery revolutionized medicine in the 20th century.",
+        "options": {
+            "a": "Albert Einstein",
+            "b": "Isaac Newton",
+            "c": "Alexander Fleming",
+            "d": "Marie Curie"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "clue": "This river flows through northeastern Africa.",
+        "options": {
+            "a": "Amazon River",
+            "b": "Nile River",
+            "c": "Yangtze River",
+            "d": "Mississippi River"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which famous scientist developed the theory of relativity?",
+        "clue": "This scientist is also known for his famous equation E = mc^2.",
+        "options": {
+            "a": "Isaac Newton",
+            "b": "Albert Einstein",
+            "c": "Galileo Galilei",
+            "d": "Nikola Tesla"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the currency of the United Kingdom?",
+        "clue": "This currency is sometimes abbreviated as GBP.",
+        "options": {
+            "a": "Euro",
+            "b": "Pound Sterling",
+            "c": "Dollar",
+            "d": "Yen"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which element has the atomic number 1?",
+        "clue": "This element is the lightest and most abundant in the universe.",
+        "options": {
+            "a": "Oxygen",
+            "b": "Hydrogen",
+            "c": "Carbon",
+            "d": "Nitrogen"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "clue": "This artist is a famous Italian painter and polymath.",
+        "options": {
+            "a": "Leonardo da Vinci",
+            "b": "Pablo Picasso",
+            "c": "Vincent van Gogh",
+            "d": "Claude Monet"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "clue": "This desert is located in Northern Africa.",
+        "options": {
+            "a": "Sahara Desert",
+            "b": "Arabian Desert",
+            "c": "Gobi Desert",
+            "d": "Kalahari Desert"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary language spoken in Brazil?",
+        "clue": "This language is the largest Romance language by number of native speakers.",
+        "options": {
+            "a": "Spanish",
+            "b": "Portuguese",
+            "c": "English",
+            "d": "French"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "clue": "This city is often confused with Sydney or Melbourne.",
+        "options": {
+            "a": "Sydney",
+            "b": "Melbourne",
+            "c": "Canberra",
+            "d": "Brisbane"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "clue": "It is located in the Himalayas.",
+        "options": {
+            "a": "K2",
+            "b": "Kangchenjunga",
+            "c": "Mount Everest",
+            "d": "Lhotse"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Who is known as the father of modern physics?",
+        "clue": "He developed the theory of relativity.",
+        "options": {
+            "a": "Isaac Newton",
+            "b": "Albert Einstein",
+            "c": "Galileo Galilei",
+            "d": "Nikola Tesla"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the process by which plants make their food?",
+        "clue": "It involves sunlight and chlorophyll.",
+        "options": {
+            "a": "Respiration",
+            "b": "Photosynthesis",
+            "c": "Transpiration",
+            "d": "Fermentation"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "clue": "It generates most of the cell's supply of ATP.",
+        "options": {
+            "a": "Nucleus",
+            "b": "Mitochondria",
+            "c": "Ribosome",
+            "d": "Endoplasmic Reticulum"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which planet is known for having a ring system?",
+        "clue": "It is the sixth planet from the Sun.",
+        "options": {
+            "a": "Jupiter",
+            "b": "Mars",
+            "c": "Saturn",
+            "d": "Neptune"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What element does 'O' represent on the periodic table?",
+        "clue": "It is essential for respiration.",
+        "options": {
+            "a": "Osmium",
+            "b": "Oxygen",
+            "c": "Oganesson",
+            "d": "Osmium"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the human body's largest organ?",
+        "clue": "It covers the entire body.",
+        "options": {
+            "a": "Liver",
+            "b": "Brain",
+            "c": "Skin",
+            "d": "Lung"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the chemical formula for water?",
+        "clue": "It contains two hydrogen atoms and one oxygen atom.",
+        "options": {
+            "a": "H2O",
+            "b": "CO2",
+            "c": "O2",
+            "d": "NaCl"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the main gas found in the Earth's atmosphere?",
+        "clue": "It makes up about 78% of the atmosphere.",
+        "options": {
+            "a": "Oxygen",
+            "b": "Nitrogen",
+            "c": "Carbon Dioxide",
+            "d": "Argon"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What part of the brain controls balance and coordination?",
+        "clue": "It is located at the back of the brain.",
+        "options": {
+            "a": "Cerebrum",
+            "b": "Cerebellum",
+            "c": "Brainstem",
+            "d": "Hypothalamus"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "If you have a bowl with six apples and you take away four, how many do you have?",
+        "clue": "Think about what you took away.",
+        "options": {
+            "a": "Two",
+            "b": "Four",
+            "c": "Six",
+            "d": "None"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What has keys but can't open locks?",
+        "clue": "You use it to type.",
+        "options": {
+            "a": "A map",
+            "b": "A piano",
+            "c": "A keyboard",
+            "d": "A door"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What goes up but never comes down?",
+        "clue": "Everyone has one, and it increases every year.",
+        "options": {
+            "a": "Your weight",
+            "b": "Your age",
+            "c": "The temperature",
+            "d": "A balloon"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Which is heavier: a ton of bricks or a ton of feathers?",
+        "clue": "Consider the weight unit.",
+        "options": {
+            "a": "A ton of bricks",
+            "b": "A ton of feathers",
+            "c": "They weigh the same",
+            "d": "Depends on the bricks"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What gets wetter as it dries?",
+        "clue": "You use it after a shower.",
+        "options": {
+            "a": "A sponge",
+            "b": "A towel",
+            "c": "A washcloth",
+            "d": "A bath mat"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "If you are running a race and you pass the person in second place, what place are you in?",
+        "clue": "Think about your new position relative to first place.",
+        "options": {
+            "a": "First place",
+            "b": "Second place",
+            "c": "Third place",
+            "d": "Fourth place"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What can travel around the world while staying in a corner?",
+        "clue": "It is often found on envelopes.",
+        "options": {
+            "a": "A stamp",
+            "b": "A map",
+            "c": "A postcard",
+            "d": "An email"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Which word is spelled incorrectly in every dictionary?",
+        "clue": "It is a common word describing a mistake.",
+        "options": {
+            "a": "Incorrectly",
+            "b": "Misspelled",
+            "c": "Wrong",
+            "d": "Error"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What has a head, a tail, is brown, and has no legs?",
+        "clue": "It's a common object in your pocket.",
+        "options": {
+            "a": "A snake",
+            "b": "A lizard",
+            "c": "A penny",
+            "d": "A belt"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What can you catch but not throw?",
+        "clue": "It makes you sneeze.",
+        "options": {
+            "a": "A ball",
+            "b": "A cold",
+            "c": "A frisbee",
+            "d": "A fish"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the primary purpose of a bridge?",
+        "clue": "It helps vehicles and people cross obstacles.",
+        "options": {
+            "a": "To generate electricity",
+            "b": "To transport water",
+            "c": "To span physical obstacles",
+            "d": "To store data"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is Ohm's Law?",
+        "clue": "It relates voltage, current, and resistance.",
+        "options": {
+            "a": "V = IR",
+            "b": "F = ma",
+            "c": "E = mc^2",
+            "d": "P = VI"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What type of engineer designs and tests aircraft?",
+        "clue": "It involves aerodynamics and flight mechanics.",
+        "options": {
+            "a": "Civil engineer",
+            "b": "Mechanical engineer",
+            "c": "Electrical engineer",
+            "d": "Aerospace engineer"
+        },
+        "answer": "d"
+    },
+    {
+        "question": "Which programming language is known as the mother of all languages?",
+        "clue": "It is often used for system programming.",
+        "options": {
+            "a": "Python",
+            "b": "C",
+            "c": "Java",
+            "d": "Ruby"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does CAD stand for?",
+        "clue": "It is used for designing and drafting.",
+        "options": {
+            "a": "Computer Automated Design",
+            "b": "Computer Aided Drawing",
+            "c": "Computer Aided Design",
+            "d": "Computer Automated Drawing"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the main purpose of a capacitor in an electrical circuit?",
+        "clue": "It stores electrical energy.",
+        "options": {
+            "a": "To increase resistance",
+            "b": "To store electrical charge",
+            "c": "To amplify signals",
+            "d": "To convert AC to DC"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the unit of measure for electrical resistance?",
+        "clue": "It is named after a German physicist.",
+        "options": {
+            "a": "Ampere",
+            "b": "Volt",
+            "c": "Ohm",
+            "d": "Watt"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Which material is commonly used as a semiconductor in electronics?",
+        "clue": "It is abundant and has four valence electrons.",
+        "options": {
+            "a": "Copper",
+            "b": "Silicon",
+            "c": "Gold",
+            "d": "Iron"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What does the term 'ISO' stand for in engineering?",
+        "clue": "It is an international standard-setting body.",
+        "options": {
+            "a": "International Organization for Standardization",
+            "b": "Industrial Standards Organization",
+            "c": "Institute of Standard Operations",
+            "d": "International Standards Operations"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the primary function of a heat exchanger?",
+        "clue": "It transfers thermal energy between fluids.",
+        "options": {
+            "a": "To cool down electrical components",
+            "b": "To transfer heat between two or more fluids",
+            "c": "To convert mechanical energy to electrical energy",
+            "d": "To store thermal energy"
+        },
+        "answer": "b"
+    }
+]
