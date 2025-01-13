@@ -25,7 +25,7 @@ logger = logging.getLogger(__name__)
 
 
 # Load the JSON data from the file
-with open(r"C:/Users/karth/projects/telegram bot/GKquizBot/quizzes.json", "r") as file:
+with open(r"quizzes.json", "r") as file:
     data = json.load(file)
 
 # Define states for conversation
